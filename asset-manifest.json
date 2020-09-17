@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ema-john-eshop-MERN-/static/css/main.306e84d6.chunk.css",
+    "main.js": "/ema-john-eshop-MERN-/static/js/main.784cd018.chunk.js",
+    "main.js.map": "/ema-john-eshop-MERN-/static/js/main.784cd018.chunk.js.map",
+    "runtime-main.js": "/ema-john-eshop-MERN-/static/js/runtime-main.3436c849.js",
+    "runtime-main.js.map": "/ema-john-eshop-MERN-/static/js/runtime-main.3436c849.js.map",
+    "static/js/2.c25b35e4.chunk.js": "/ema-john-eshop-MERN-/static/js/2.c25b35e4.chunk.js",
+    "static/js/2.c25b35e4.chunk.js.map": "/ema-john-eshop-MERN-/static/js/2.c25b35e4.chunk.js.map",
+    "index.html": "/ema-john-eshop-MERN-/index.html",
+    "precache-manifest.db3c35bed21532fb5f725e2fefd8d6d3.js": "/ema-john-eshop-MERN-/precache-manifest.db3c35bed21532fb5f725e2fefd8d6d3.js",
+    "service-worker.js": "/ema-john-eshop-MERN-/service-worker.js",
+    "static/css/main.306e84d6.chunk.css.map": "/ema-john-eshop-MERN-/static/css/main.306e84d6.chunk.css.map",
+    "static/js/2.c25b35e4.chunk.js.LICENSE.txt": "/ema-john-eshop-MERN-/static/js/2.c25b35e4.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/ema-john-eshop-MERN-/static/media/logo.95f238a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3436c849.js",
+    "static/js/2.c25b35e4.chunk.js",
+    "static/css/main.306e84d6.chunk.css",
+    "static/js/main.784cd018.chunk.js"
+  ]
+}
