@@ -1,0 +1,18 @@
+.shop {
+  display: flex;
+  flex-direction: row;
+}
+.product__container {
+  display: flex;
+  flex: 0.75;
+  border-right: 1px solid gray;
+}
+.cart__container {
+  display: flex;
+  flex: 0.25;
+  margin-left: 20px;
+  color: black;
+}
+.button__link {
+  text-decoration: none;
+}

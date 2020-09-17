@@ -1,0 +1,38 @@
+.ship__form {
+  margin: 30px 100px;
+}
+.ship__form input {
+  display: block;
+  margin-top: 30px;
+  padding: 5px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 350px;
+  height: 30px;
+}
+.error {
+  color: tomato;
+}
+.shipment {
+  display: flex;
+}
+.form {
+  display: flex;
+  width: 60%;
+  flex: 0.7;
+}
+.checkout {
+  margin-top: 60px !important;
+  width: 400px !important;
+  padding: 5px !important;
+  margin: auto;
+}
+.checkout h3 {
+  margin-bottom: 50px;
+}
+input.button {
+  width: 360px;
+  height: 40px;
+  padding: 10px;
+  background-color: tomato;
+}

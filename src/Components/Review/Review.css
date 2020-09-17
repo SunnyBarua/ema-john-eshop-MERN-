@@ -1,0 +1,14 @@
+.review {
+  display: flex;
+  flex-direction: row;
+}
+.product__review__container {
+  display: flex;
+  flex-direction: column;
+  flex: 0.75;
+  border-right: 1px solid gray;
+}
+.cart__container {
+  display: flex;
+  flex: 0.25;
+}
